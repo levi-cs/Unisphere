@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎓 UniSphere — Official College Student Portal
 
 A full-stack Django student portal for colleges with Student, Teacher, and Admin roles.
